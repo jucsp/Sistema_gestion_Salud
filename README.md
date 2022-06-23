@@ -1,3 +1,4 @@
 # Sistema de gestión para consultas medicas
 
-Sistema para agendar horas medicas mediante una aplicacion movil.
+<ul>Sistema para agendar horas medicas mediante una aplicacion movil.</ul>
+<ul>Sistema Android.</ul>
